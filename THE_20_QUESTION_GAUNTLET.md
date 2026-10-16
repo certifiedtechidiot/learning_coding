@@ -8,7 +8,7 @@
 - [x] **Q01:** List Reversal (Step indexing / Two-pointer mechanics)
 - [x] **Q02:** Deduplicate While Preserving Order (Membership filtering)
 - [x] **Q03:** Second Smallest Number in a Single Pass
-- [ ] **Q04:** Array Rotation by `K` Steps
+- [x] **Q04:** Array Rotation by `K` Steps
 - [ ] **Q05:** Merge Two Sorted Lists into One (Two-pointer merge)
 
 ---
@@ -40,4 +40,4 @@
 
 ---
 
-*Current Progress: 3 / 20 Solved*
+*Current Progress: 4 / 20 Solved*

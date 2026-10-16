@@ -10,7 +10,7 @@
 | :--- | :--- |
 | **Current Rank** | **Level 2.0 / 5 — Autonomous Problem Solver** |
 | **Assistance Dial** | **Low-Medium (Socratic Debugging + Architecture Insights, Zero Code Dumps)** |
-| **Streak** | Day 1 of 7-Day Holiday Sprint |
+| **Streak** | Day 2 of 7-Day Holiday Sprint |
 
 ### Level Scale Definitions:
 * **Level 1 (Assisted Scaffolder):** Needs problem decomposition into plain English; hesitates at empty file.
@@ -38,7 +38,14 @@
   - [x] **Q01 (List Reversal):** In-place two-pointer swapping mechanics without `[::-1]`.
   - [x] **Q02 (Deduplicate while preserving order):** Membership logic without using `set()`.
   - [x] **Q03 (Second Smallest Number):** Manual iteration and state tracking for minimums without `sorted()` or `min()`.
-  - [ ] **Next Target:** **Q04: Array Rotation by `K` Steps** (Index modulo and rotation mechanics).
+
+### 🗓️ Day 2: [2026-10-17]
+* **Rep 4 (20-Question Algorithmic Gauntlet - Q04 Rotation Mechanics):**
+  - [x] **Q04 (Array Rotation by `K` Steps):** Implemented dual-loop index extraction (`range(-k, 0, 1)` and `range(len(nums) - k)`) and concatenation without slicing shortcuts (`nums[-k:] + nums[:-k]`).
+  - [x] Debugged negative step directionality trap (`range(-2, -1, -1)` vs `range(-k, 0, 1)`).
+  - [x] Identified and eliminated in-place removal index-mutation trap (`nums.remove()`).
+  - [x] Replaced dependency on `.reverse()` by restructuring loop indices in forward order.
+  - [ ] **Next Target:** **Q05: Merge Two Sorted Lists into One (Two-pointer merge)**.
 
 ---
 
@@ -52,4 +59,4 @@
 
 ---
 
-*Last Updated: 2026-10-16 — Gauntlet Q01-Q03 Completed (Progress: 3/20)*
+*Last Updated: 2026-10-17 — Gauntlet Q01-Q04 Completed (Progress: 4/20)*
