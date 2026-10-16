@@ -34,6 +34,11 @@
   - [x] **Autonomous Leap:** Rather than just tracking in-place, built custom reusable utility functions (`lentcounter`, `sumcalculator`) from scratch!
   - [x] Debugged silent `None` return bug in function execution.
   - [x] Clean f-string output formatting with newlines.
+* **Rep 3 (20-Question Algorithmic Gauntlet - Tier 1 Kickoff):**
+  - [x] **Q01 (List Reversal):** In-place two-pointer swapping mechanics without `[::-1]`.
+  - [x] **Q02 (Deduplicate while preserving order):** Membership logic without using `set()`.
+  - [x] **Q03 (Second Smallest Number):** Manual iteration and state tracking for minimums without `sorted()` or `min()`.
+  - [ ] **Next Target:** **Q04: Array Rotation by `K` Steps** (Index modulo and rotation mechanics).
 
 ---
 
@@ -47,4 +52,4 @@
 
 ---
 
-*Last Updated: Day 1 - Kickoff Session*
+*Last Updated: 2026-10-16 — Gauntlet Q01-Q03 Completed (Progress: 3/20)*

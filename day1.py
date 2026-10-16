@@ -1,26 +1,38 @@
-readings = [21.5, 22.0, 21.8, 99.9, 22.1, -5.0, 22.4, 21.9]
-normal_readings=[]
-glitch_readings=[]
-for i in readings:
-    if i>=0 and i<=50:
-        normal_readings.append(i)
+nums = [12, 45, 2, 89, 7, 2, 90, 10]
+sorted_lst=[]
+for i in nums:
+    if i not in sorted_lst:
+        sorted_lst.append(i)
+
+smallest_number=0
+second_smallest_number=0
+for i in sorted_lst:
+    if smallest_number==0:
+        smallest_number=i
     else:
-        glitch_readings.append(i)
+        if i>smallest_number:
+            continue
+        else:
+            smallest_number=i
+print(smallest_number)
+        
+for i in sorted_lst:
+    if i ==smallest_number:
+        sorted_lst.remove(i)
 
-def lentcounter(x):
-    count=0
-    for i in x:
-        count+=1
-    return count
+for i in sorted_lst:
+    if second_smallest_number==0:
+        second_smallest_number=i
+    else:
+        if i>second_smallest_number:
+            continue
+        else:
+            second_smallest_number=i
+        
+print(second_smallest_number)
 
-def sumcalculator(x):
-    sum=0
-    for i in x:
-        sum+=i
-    return sum
 
-valid_reading_avg=sumcalculator(normal_readings)/lentcounter(normal_readings)
-invalid_readings_avg=sumcalculator(glitch_readings)/lentcounter(glitch_readings)
+    
 
-print(f"valid avg = {valid_reading_avg}\ninvalid avg = {invalid_readings_avg}")
+
 

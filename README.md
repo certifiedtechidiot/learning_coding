@@ -11,6 +11,9 @@ Detailed level calibration, dynamic assistance dial, and daily receipts are docu
 
 * **Current Calibrated Level:** `Level 2.0 / 5 — Autonomous Problem Solver`
 * **Assistance Dial:** Low-Medium (Socratic debugging, zero code dumps)
+* **Active Gauntlet:** **[THE_20_QUESTION_GAUNTLET.md](THE_20_QUESTION_GAUNTLET.md)** *(3 / 20 Solved — Current Target: Q04)*
+* **Device Switch & AI Setup:** **[HOW_TO_CODE_WITH_ME.md](HOW_TO_CODE_WITH_ME.md)**
+* **AI Coaching Protocol:** **[AGENTS.md](AGENTS.md)**
 
 ---
 
@@ -18,8 +21,8 @@ Detailed level calibration, dynamic assistance dial, and daily receipts are docu
 
 | Day | Topics & Challenges | Files | Status |
 | :---: | :--- | :--- | :---: |
-| **Day 1** | Nested Lists, In-place Swapping, Custom Utility Functions (`len`, `sum`), Compound Logic | [`day1.py`](day1.py) | ✅ Completed |
-| **Day 2** | Coming Soon | — | ⏳ Upcoming |
+| **Day 1** | Nested Lists, Sensor Filtering, In-place Swapping, Gauntlet Q01-Q03 (Reversal, Deduplication, 2nd Smallest) | [`day1.py`](day1.py) | ✅ Completed |
+| **Day 2** | Gauntlet Q04+ (Array Rotation, Two-Pointer Merge, Strings) | [`day2.py`](day2.py) | ⏳ Up Next |
 | **Day 3** | Coming Soon | — | ⏳ Upcoming |
 | **Day 4** | Coming Soon | — | ⏳ Upcoming |
 | **Day 5** | Coming Soon | — | ⏳ Upcoming |
