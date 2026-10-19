@@ -8,9 +8,9 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Rank** | **Level 2.0 / 5 — Autonomous Problem Solver** |
+| **Current Rank** | **Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered)** |
 | **Assistance Dial** | **Low-Medium (Socratic Debugging + Architecture Insights, Zero Code Dumps)** |
-| **Streak** | Day 2 of 7-Day Holiday Sprint |
+| **Streak** | Day 3 of 7-Day Holiday Sprint |
 
 ### Level Scale Definitions:
 * **Level 1 (Assisted Scaffolder):** Needs problem decomposition into plain English; hesitates at empty file.
@@ -45,7 +45,17 @@
   - [x] Debugged negative step directionality trap (`range(-2, -1, -1)` vs `range(-k, 0, 1)`).
   - [x] Identified and eliminated in-place removal index-mutation trap (`nums.remove()`).
   - [x] Replaced dependency on `.reverse()` by restructuring loop indices in forward order.
-  - [ ] **Next Target:** **Q05: Merge Two Sorted Lists into One (Two-pointer merge)**.
+  - [x] **Q04 Complete**
+
+### 🗓️ Day 3: [2026-10-19]
+* **Rep 5 (20-Question Algorithmic Gauntlet - Q05 Two-Pointer Merge):**
+  - [x] **Q05 (Merge Two Sorted Lists into One):** Independently developed an $O(N + M)$ two-pointer merge algorithm without `.sort()` or concatenation shortcuts.
+  - [x] Debugged inverted comparison logic and cross-pointer index access (`list1[y]` vs `list1[x]`).
+  - [x] Transitioned from bounded `for` loops to boundary-safe dual-pointer `while` conditions (`x < len(list1) and y < len(list2)`).
+  - [x] Solved the leftover element collection by decoupling pointer ranges (`range(x, len(list1))` and `range(y, len(list2))`), abandoning misleading length heuristics.
+  - [x] Handled duplicate values and edge boundary conditions cleanly.
+  - [x] **TIER 1 GAUNTLET CONQUERED (5 / 5)! 🏆**
+  - [ ] **Next Target:** **Tier 2 Kickoff -> Q06: Palindrome Checker (Two-pointer, ignore case & spaces)**.
 
 ---
 
@@ -53,10 +63,10 @@
 
 | Rehan's Level | Assistant's Behavior |
 | :--- | :--- |
-| **Level 1.0 - 2.0 (Current)** | Socratic hints only, point out physical bugs in Hinglish, never write code blocks for him. |
-| **Level 2.0 - 3.5** | Only provide problem statements and test cases. Let Rehan write full logic and ask him to explain time complexity. |
+| **Level 1.0 - 2.0** | Socratic hints only, point out physical bugs in Hinglish, never write code blocks for him. |
+| **Level 2.0 - 3.5 (Current)** | Only provide problem statements and test cases. Let Rehan write full logic and ask him to explain time complexity. |
 | **Level 4.0 - 5.0** | Full autonomy. Only run edge-case fuzzing and code architecture critiques. |
 
 ---
 
-*Last Updated: 2026-10-17 — Gauntlet Q01-Q04 Completed (Progress: 4/20)*
+*Last Updated: 2026-10-19 — Gauntlet Q01-Q05 Completed (Progress: 5/20, Tier 1 100% Cleared!)*

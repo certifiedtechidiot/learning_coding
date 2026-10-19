@@ -1,38 +1,34 @@
-nums = [12, 45, 2, 89, 7, 2, 90, 10]
-sorted_lst=[]
-for i in nums:
-    if i not in sorted_lst:
-        sorted_lst.append(i)
+text="AmanaplanacanalPanama"
+lwtext=text.lower()
+x=0
+y=-1
 
-smallest_number=0
-second_smallest_number=0
-for i in sorted_lst:
-    if smallest_number==0:
-        smallest_number=i
-    else:
-        if i>smallest_number:
-            continue
-        else:
-            smallest_number=i
-print(smallest_number)
-        
-for i in sorted_lst:
-    if i ==smallest_number:
-        sorted_lst.remove(i)
 
-for i in sorted_lst:
-    if second_smallest_number==0:
-        second_smallest_number=i
-    else:
-        if i>second_smallest_number:
-            continue
-        else:
-            second_smallest_number=i
-        
-print(second_smallest_number)
+
+while lwtext[x]==lwtext[y]:
+    if x >= end_x or y >= end_y:
+        break
+    x+=1
+    y-=1
 
 
     
+
+# z=[]
+# # reversed_z=[]
+# # for i in loweredtext:
+# #     if i==" ":
+# #         continue
+# #     else:
+# #         z.append(i)
+    
+# # for i in range(-1,-len(z)-1,-1):
+# #     reversed_z.append(z[i])
+
+# # if reversed_z == z:
+# #     print("true")
+# # else:
+# #     print("false")
 
 
 

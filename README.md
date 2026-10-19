@@ -9,9 +9,10 @@
 
 Detailed level calibration, dynamic assistance dial, and daily receipts are documented in **[LEVEL_OF_REHAN_IN_CODING.md](LEVEL_OF_REHAN_IN_CODING.md)**.
 
-* **Current Calibrated Level:** `Level 2.0 / 5 — Autonomous Problem Solver`
+* **Current Calibrated Level:** `Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered 🏆)`
 * **Assistance Dial:** Low-Medium (Socratic debugging, zero code dumps)
-* **Active Gauntlet:** **[THE_20_QUESTION_GAUNTLET.md](THE_20_QUESTION_GAUNTLET.md)** *(3 / 20 Solved — Current Target: Q04)*
+* **Active Gauntlet:** **[THE_20_QUESTION_GAUNTLET.md](THE_20_QUESTION_GAUNTLET.md)** *(5 / 20 Solved — Tier 1 Conquered! Active: Q06 / LeetCode #125)*
+* **LeetCode Profile:** [@certifiedtechidiot on LeetCode](https://leetcode.com/u/certifiedtechidiot/)
 * **Device Switch & AI Setup:** **[HOW_TO_CODE_WITH_ME.md](HOW_TO_CODE_WITH_ME.md)**
 * **AI Coaching Protocol:** **[AGENTS.md](AGENTS.md)**
 
@@ -20,11 +21,11 @@ Detailed level calibration, dynamic assistance dial, and daily receipts are docu
 ## 🗓️ Daily Log
 
 | Day | Topics & Challenges | Files | Status |
-| :---: | :--- | :--- | :---: |
+| :---: | :--- | :--- | :--- |
 | **Day 1** | Nested Lists, Sensor Filtering, In-place Swapping, Gauntlet Q01-Q03 (Reversal, Deduplication, 2nd Smallest) | [`day1.py`](day1.py) | ✅ Completed |
-| **Day 2** | Gauntlet Q04+ (Array Rotation, Two-Pointer Merge, Strings) | [`day2.py`](day2.py) | ⏳ Up Next |
-| **Day 3** | Coming Soon | — | ⏳ Upcoming |
-| **Day 4** | Coming Soon | — | ⏳ Upcoming |
+| **Day 2** | Gauntlet Q04 (Array Rotation by K Steps / LeetCode #189 Medium) | [`day2.py`](day2.py) | ✅ Completed |
+| **Day 3** | Gauntlet Q05 (Two-Pointer Merge / LeetCode #88), Tier 1 Conquered (5/5), Transitioning to LeetCode Arena | [`day1.py`](day1.py) | ✅ Completed |
+| **Day 4** | Tier 2: Strings & Stream Parsing (Q06 Palindrome / LeetCode #125+) | — | ⏳ In Progress |
 | **Day 5** | Coming Soon | — | ⏳ Upcoming |
 | **Day 6** | Coming Soon | — | ⏳ Upcoming |
 | **Day 7** | Capstone Project | — | ⏳ Upcoming |

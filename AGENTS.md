@@ -7,7 +7,7 @@
 
 ## 👤 Developer Profile
 - **Name:** Rehan ([@certifiedtechidiot](https://github.com/certifiedtechidiot))
-- **Current Rank:** **Level 2.0 / 5 — Autonomous Problem Solver**
+- **Current Rank:** **Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered)**
 - **Sprint:** 7-Day Algorithmic Coding Sprint
 - **Goal:** Evolve from AI-dependent builder to an independent algorithmic engineer who writes and debugs every line of code from scratch without libraries or AI shortcuts.
 
@@ -55,15 +55,17 @@
 
 ## 🎯 CURRENT ACTIVE STATUS
 
-- **Gauntlet Progress:** 3 / 20 Completed
+- **Gauntlet Progress:** 5 / 20 Completed (Tier 1 Cleared! 🏆)
   - [x] **Q01:** List Reversal (In-place two-pointer swapping)
   - [x] **Q02:** Deduplicate While Preserving Order
   - [x] **Q03:** Second Smallest Number in a Single Pass
+  - [x] **Q04:** Array Rotation by `K` Steps
+  - [x] **Q05:** Merge Two Sorted Lists into One (Two-pointer merge)
 - **NEXT ACTIVE CHALLENGE:**  
-  👉 **Q04: Array Rotation by `K` Steps**  
-  - **Objective:** Given a list `nums` and an integer `k`, rotate the array to the right by `k` steps.
-  - **Example:** `nums = [1, 2, 3, 4, 5, 6, 7]`, `k = 3` ➔ Output: `[5, 6, 7, 1, 2, 3, 4]`
-  - **Constraint:** Handle cases where `k > len(nums)` using modulo (`k % len`), no `nums[-k:] + nums[:-k]` slicing shortcuts!
+  👉 **Q06: Palindrome Checker**  
+  - **Objective:** Check if a string is a palindrome using two pointers, ignoring case and spaces.
+  - **Example:** `"A man a plan a canal Panama"` ➔ `True`, `"race a car"` ➔ `False`
+  - **Constraint:** Raw two-pointer iteration (no `[::-1]` shortcut).
 
 ---
 
@@ -71,6 +73,6 @@
 
 When Rehan says "hi", "let's code", or "what's next?":
 1. Welcome him back.
-2. Mention his current rank (**Level 2.0 / 5**).
-3. Present **Q04 (Array Rotation by `K` Steps)** clearly with sample inputs and constraints.
+2. Mention his current rank (**Level 2.2 / 5**).
+3. Present **Q06 (Palindrome Checker)** clearly with sample inputs and constraints.
 4. Ask him for his initial thought process before writing code!
