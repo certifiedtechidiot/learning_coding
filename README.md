@@ -1,38 +1,70 @@
-# 🚀 7-Day Algorithmic Coding Sprint
+# ⚔️ The Sovereign Barbell: Python & Algorithmic Mastery
 
-**Builder:** Rehan ([@certifiedtechidiot](https://github.com/certifiedtechidiot))  
-**Mission:** Transition from AI-assisted builder to independent algorithmic engineer who writes and debugs every line from an empty file.
+**Builder:** Rehan Khan ([@certifiedtechidiot](https://github.com/certifiedtechidiot))  
+**Horizon:** October 20, 2026 ➔ December 31, 2026 (**73 Days Non-Negotiable**)  
+**The Core Philosophy:** The Anti-Fragile Builder (High-Upside Startups + Unbreakable Algorithmic Floor)
 
 ---
 
-## 📊 Progress Tracker
+> ### 🩸 THE SOVEREIGN IRON LAW
+> **"2 Hours of Deep Coding Every Single Day — Irrespective of mood, emotion, or life friction. Zero excuses. Zero zero-days. Let the scoreboard do the talking."**
 
-Detailed level calibration, dynamic assistance dial, and daily receipts are documented in **[LEVEL_OF_REHAN_IN_CODING.md](LEVEL_OF_REHAN_IN_CODING.md)**.
+---
+
+## 🏛️ The Barbell Strategy (Why We Cannot Lose)
+
+```
+[ THE FLOOR: Hard Algorithmic Fluency ]  ◄────────►  [ THE CEILING: Sovereign Startups ]
+• Python Fluency & Practical DSA                     • Rubrica (Vision Grading Platform)
+• Clean State Control & Error-Handling               • Envision (AI Smart Navigation)
+• Ahead of 95% of college peers before Year 1        • AI Wearable Pendant (STEM Week)
+----------------------------------------------------------------------------------------
+WORST-CASE SCENARIO:                                 BEST-CASE SCENARIO:
+Even if a startup fails, enter college as an elite   Build a cash-flowing tech company or secure
+battle-tested engineer who crushes placements.       venture backing before age 19.
+```
+
+---
+
+## 🎯 The 73-Day Master Objectives (By Dec 31, 2026)
+
+| Pillar | Target | Objective |
+| :--- | :--- | :--- |
+| **Daily Input** | **2 Hours / Day** | Mood-independent deep work: 30–45 mins DSA logic + 75–90 mins real-world engineering. |
+| **Algorithmic Reps** | **The 20-Question Gauntlet + LeetCode Core** | Master Two Pointers, Hashmaps, Binary Search, Sliding Window from an empty file. |
+| **Real Receipts** | **Rubrica + AI Pendant Prototype** | Ship the Airway Public School pilot; demo the functional AI pendant at STEM week. |
+| **The College Edge** | **1-Year Advantage** | Enter college already fluent in building production systems, APIs, and writing clean DSA. |
+
+---
+
+## 📊 Progression & Receipts Tracker
 
 * **Current Calibrated Level:** `Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered 🏆)`
-* **Assistance Dial:** Low-Medium (Socratic debugging, zero code dumps)
-* **Active Gauntlet:** **[THE_20_QUESTION_GAUNTLET.md](THE_20_QUESTION_GAUNTLET.md)** *(5 / 20 Solved — Tier 1 Conquered! Active: Q06 / LeetCode #125)*
+* **Active Working Directory:** `learning_coding/`
+* **Real Receipts Log:** **[LEVEL_OF_REHAN_IN_CODING.md](LEVEL_OF_REHAN_IN_CODING.md)**
+* **The 20-Question Gauntlet:** **[THE_20_QUESTION_GAUNTLET.md](THE_20_QUESTION_GAUNTLET.md)** *(5 / 20 Conquered)*
 * **LeetCode Profile:** [@certifiedtechidiot on LeetCode](https://leetcode.com/u/certifiedtechidiot/)
-* **Device Switch & AI Setup:** **[HOW_TO_CODE_WITH_ME.md](HOW_TO_CODE_WITH_ME.md)**
 * **AI Coaching Protocol:** **[AGENTS.md](AGENTS.md)**
 
 ---
 
-## 🗓️ Daily Log
+## 🗓️ 73-Day Roadmap Architecture
 
-| Day | Topics & Challenges | Files | Status |
-| :---: | :--- | :--- | :--- |
-| **Day 1** | Nested Lists, Sensor Filtering, In-place Swapping, Gauntlet Q01-Q03 (Reversal, Deduplication, 2nd Smallest) | [`day1.py`](day1.py) | ✅ Completed |
-| **Day 2** | Gauntlet Q04 (Array Rotation by K Steps / LeetCode #189 Medium) | [`day2.py`](day2.py) | ✅ Completed |
-| **Day 3** | Gauntlet Q05 (Two-Pointer Merge / LeetCode #88), Tier 1 Conquered (5/5), Transitioning to LeetCode Arena | [`day1.py`](day1.py) | ✅ Completed |
-| **Day 4** | Tier 2: Strings & Stream Parsing (Q06 Palindrome / LeetCode #125+) | — | ⏳ In Progress |
-| **Day 5** | Coming Soon | — | ⏳ Upcoming |
-| **Day 6** | Coming Soon | — | ⏳ Upcoming |
-| **Day 7** | Capstone Project | — | ⏳ Upcoming |
+```
+[Oct 20, 2026] ──────────────────────────► [Nov 20, 2026] ──────────────────────────► [Dec 31, 2026]
+       │                                          │                                          │
+       ▼                                          ▼                                          ▼
+STAGE 1: PYTHON DSA PATTERNS & PROTOTYPING        🎂 17th BIRTHDAY          STAGE 2: ADVANCED SYSTEMS & HARDENING
+• Strings, Streams, Hashmaps, Two-Pointers        • The Great Calibration   • Complex Data Structures, Graph & DP Basics
+• Gauntlet Tiers 2-4 Complete                     • Rubrica Expansion       • Production-Grade Python & Fast Execution
+• AI Pendant Prototype for STEM Week (Oct 30-31)  • 50+ Core Problems Done  • 100+ Total Problems, Complete Autonomy
+```
 
 ---
 
-## 🛠️ Tech Stack & Rules of Engagement
-- **Language:** Python 3.10+
-- **Rule #1:** Write raw algorithms from scratch without library shortcuts (`lambda`, `sorted()`, `sum()`, `len()` recreated manually).
-- **Rule #2:** Zero copy-paste AI solutions. Line-by-line ownership.
+## 🛠️ Rules of Engagement
+
+1. **Empty File Rule:** Write the logic from scratch. No copy-pasting, no LLM crutches.
+2. **25-Minute Rule:** 20–25 minutes of paper/pen struggle on edge cases before looking at any hint.
+3. **Complexity Accountability:** Every algorithm must declare its Time ($O$) and Space ($O$) complexity.
+4. **Zero-Day Moratorium:** Even when exhausted, busy, or unmotivated, the code engine runs every single day.
