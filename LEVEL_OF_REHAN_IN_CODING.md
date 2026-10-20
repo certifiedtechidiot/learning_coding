@@ -1,6 +1,7 @@
-# 🥋 REHAN'S CODING MASTERY: PROGRESSION TRACKER
-**Active Working Directory:** `learn coding`  
-**Goal:** Transition from AI-reliant builder to independent algorithmic engineer.
+# 🥋 REHAN'S CODING MASTERY: 73-DAY BARBELL TRACKER
+**Active Working Directory:** `learning_coding`  
+**Horizon:** October 20, 2026 ➔ December 31, 2026 (**73 Days Non-Negotiable**)  
+**The Sovereign Iron Law:** 2 Hours of Daily Code — Mood-Independent (DSA Floor + Startup Ceiling).
 
 ---
 
@@ -8,9 +9,10 @@
 
 | Metric | Status |
 | :--- | :--- |
-| **Current Rank** | **Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered)** |
+| **Current Rank** | **Level 2.2 / 5 — Autonomous Problem Solver (Tier 1 Conquered 🏆)** |
 | **Assistance Dial** | **Low-Medium (Socratic Debugging + Architecture Insights, Zero Code Dumps)** |
-| **Streak** | Day 3 of 7-Day Holiday Sprint |
+| **Sprint Day** | **Day 1 of 73-Day Crucible (Road to 2027)** |
+| **Core Target** | Master Python DSA to guarantee a 1-year lead over college peers while powering startups |
 
 ### Level Scale Definitions:
 * **Level 1 (Assisted Scaffolder):** Needs problem decomposition into plain English; hesitates at empty file.
@@ -55,7 +57,12 @@
   - [x] Solved the leftover element collection by decoupling pointer ranges (`range(x, len(list1))` and `range(y, len(list2))`), abandoning misleading length heuristics.
   - [x] Handled duplicate values and edge boundary conditions cleanly.
   - [x] **TIER 1 GAUNTLET CONQUERED (5 / 5)! 🏆**
-  - [ ] **Next Target:** **Tier 2 Kickoff -> Q06: Palindrome Checker (Two-pointer, ignore case & spaces)**.
+
+### 🗓️ Day 4 / Crucible Day 1: [2026-10-20]
+* **73-Day Barbell Protocol Initiated:**
+  - [ ] **Gauntlet Q06 (Valid Palindrome / LeetCode #125):** Two-pointer string parsing ignoring case and non-alphanumeric chars.
+  - [ ] **Gauntlet Q15 / LeetCode #1 (Two Sum):** Single-pass Hash Map frequency index lookup in $O(N)$.
+  - [ ] **Daily Project Sprint:** Rubrica pilot deployment verification & STEM week AI pendant design.
 
 ---
 
@@ -69,4 +76,4 @@
 
 ---
 
-*Last Updated: 2026-10-19 — Gauntlet Q01-Q05 Completed (Progress: 5/20, Tier 1 100% Cleared!)*
+*Last Updated: 2026-10-20 — 73-Day Barbell Strategy Activated (Tier 1 Cleared, Tier 2 Active)*
