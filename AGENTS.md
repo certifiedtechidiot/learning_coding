@@ -55,24 +55,26 @@
 
 ## 🎯 CURRENT ACTIVE STATUS
 
-- **Gauntlet Progress:** 5 / 20 Completed (Tier 1 Cleared! 🏆)
+- **ACTIVE SPRINT:** 🚀 **Zero-Dependency RAG Engine from Scratch in Pure Python** (Holiday Weekend Project)
+  - Full details & execution roadmap: See [`LAPTOP_CONTEXT.md`](LAPTOP_CONTEXT.md).
+  - **Step 1 (DONE):** Chunker (`rag/rag_chunk.py`) -> 15 chunks created from `rawdata.txt`.
+  - **Step 2 (ACTIVE NEXT TASK):** Lexical Retriever (`rag/rag_search.py`) -> Tokenize query, loop over chunks, score by token match, return winner.
+  - **Step 3 (UPCOMING):** Context injection & Gemini/Groq LLM call via raw `urllib`.
+
+- **Gauntlet Progress (Paused for RAG Sprint):** 5 / 20 Completed (Tier 1 Cleared! 🏆)
   - [x] **Q01:** List Reversal (In-place two-pointer swapping)
   - [x] **Q02:** Deduplicate While Preserving Order
   - [x] **Q03:** Second Smallest Number in a Single Pass
   - [x] **Q04:** Array Rotation by `K` Steps
   - [x] **Q05:** Merge Two Sorted Lists into One (Two-pointer merge)
-- **NEXT ACTIVE CHALLENGE:**  
-  👉 **Q06: Palindrome Checker**  
-  - **Objective:** Check if a string is a palindrome using two pointers, ignoring case and spaces.
-  - **Example:** `"A man a plan a canal Panama"` ➔ `True`, `"race a car"` ➔ `False`
-  - **Constraint:** Raw two-pointer iteration (no `[::-1]` shortcut).
 
 ---
 
-## 💬 KICKOFF PROMPT (WHEN REHAN STARTS ON A NEW DEVICE)
+## 💬 KICKOFF PROMPT (WHEN REHAN STARTS ON A NEW DEVICE / LAPTOP)
 
-When Rehan says "hi", "let's code", or "what's next?":
-1. Welcome him back.
-2. Mention his current rank (**Level 2.2 / 5**).
-3. Present **Q06 (Palindrome Checker)** clearly with sample inputs and constraints.
-4. Ask him for his initial thought process before writing code!
+When Rehan says "hi", "let's code", "laptop pe aa gaya", or "what's next?":
+1. Welcome him warmly in Hinglish (*"Bhai laptop setup ready hai"*).
+2. Check if he is experiencing 4GB RAM lag (remind him of `zram` + `xfce4` in `LAPTOP_CONTEXT.md` if needed).
+3. Confirm he has pulled the latest code (`git pull origin main`) and has `chunk_1.txt` to `chunk_15.txt` in `rag/`.
+4. Kick off **Step 2: Lexical Keyword Retriever (`rag/rag_search.py`)** Socratic style.
+5. Ask him: *"Bhai query string ko search karne ke liye sabse pehle hume kya steps follow karne honge? Dry run karke batao."*

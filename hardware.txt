@@ -1,0 +1,11 @@
+=== SECTION 1: VECTORWRITE COREXY SYSTEM ===
+VectorWrite is a high-precision CoreXY dual-stepper CNC drafting machine. It uses two NEMA 17 stepper motors driven by A4988 driver chips set to 1/16th microstepping. The serial communication baud rate is locked at 115200. The pen lift mechanism uses a TowerPro MG90S metal-gear micro servo connected to digital pin 9. The drawing bed dimensions are exactly 297mm by 210mm (Standard A4 paper size).
+
+=== SECTION 2: SOVEREIGN PENDANT AUDIO SPECS ===
+The Sovereign Pendant memory node runs on a Seeed Studio XIAO ESP32-C3 microcontroller. Audio capture is powered by an INMP441 omnidirectional digital MEMS microphone using the I2S protocol. The I2S clock pin (SCK) is wired to GPIO 3, Word Select (WS) to GPIO 4, and Serial Data (SD) to GPIO 5. The microphone records mono 16-bit PCM audio at a sample rate of 16000 Hz. The device is powered by a 3.7V 300mAh lithium-polymer pouch battery.
+
+=== SECTION 3: RUBRICA EVALUATION PROTOCOL ===
+Rubrica is an automated AI exam correction and daily practice problem (DPP) engine. For question generation, the LLM temperature must be calibrated between 0.3 and 0.4 to ensure syllabus adherence without repetitive questions. For paper grading, the temperature is strictly locked at 0.0 to guarantee 100% deterministic scoring. The rubric awards 1 mark for formula definition, 1 mark for correct substitution, and 1 mark for the final answer with proper SI units.
+
+=== SECTION 4: LAB SECURITY AND PASSWORDS ===
+The campus robotics workshop operates under security protocol Alpha-9. The local edge server IP address is 192.168.1.184 listening on port 8000 for encrypted telemetry. The emergency firmware reflash override code is "CYBER_MARAUDER_2026". All MicroSD cards used in the black-box logging modules must be formatted in FAT32 with a 32KB allocation block size.
