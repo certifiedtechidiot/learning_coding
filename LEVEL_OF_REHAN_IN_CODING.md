@@ -64,6 +64,13 @@
   - [ ] **Gauntlet Q15 / LeetCode #1 (Two Sum):** Single-pass Hash Map frequency index lookup in $O(N)$.
   - [ ] **Daily Project Sprint:** Rubrica pilot deployment verification & STEM week AI pendant design.
 
+### 🗓️ Systems Sprint: [2026-11-12]
+* **Autonomous Milestone: Custom RAG Architecture from Scratch (`costom_rag`):**
+  - [x] **Ingestion Engine:** Implemented sliding-window text chunking (200-word batches) with dynamic file generation.
+  - [x] **Retriever Engine:** Engineered a pure Python term-frequency scoring loop across multiple text partitions to find optimal context without third-party vector databases.
+  - [x] **HTTP API Protocol:** Mastered raw HTTP POST authentication (Bearer token RFC 6750) and JSON payload integration via `requests` without LangChain or external wrappers.
+  - [x] **Portfolio Deployment:** Published standalone project to [`certifiedtechidiot/costom_rag`](https://github.com/certifiedtechidiot/costom_rag).
+
 ---
 
 ## 🎚️ 3. Dynamic Assistance Policy
