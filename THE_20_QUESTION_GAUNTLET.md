@@ -14,7 +14,7 @@
 ---
 
 ### 🟡 Tier 2: Strings & Stream Parsing (Text & Boundary Mechanics) — *ACTIVE*
-- [ ] **Q06:** Palindrome Checker ➔ [[LeetCode #125: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)]
+- [x] **Q06:** Palindrome Checker ➔ [[LeetCode #125: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)]
 - [ ] **Q07:** Run-Length String Compression ➔ [[LeetCode #443: String Compression](https://leetcode.com/problems/string-compression/)]
 - [ ] **Q08:** First Non-Repeating Character ➔ [[LeetCode #387: First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/)]
 - [ ] **Q09:** G-Code / Telemetry Coordinate Parser (`"X12.5 Y30.2 Z-5.0"`)
@@ -40,4 +40,4 @@
 
 ---
 
-*Current Progress: 5 / 20 Solved (Tier 1 COMPLETE! 🎉) | LeetCode Profile: [@certifiedtechidiot](https://leetcode.com/u/certifiedtechidiot/)*
+*Current Progress: 6 / 20 Solved (Tier 1 Conquered, Tier 2 Active!) | LeetCode Profile: [@certifiedtechidiot](https://leetcode.com/u/certifiedtechidiot/)*
